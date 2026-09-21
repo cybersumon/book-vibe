@@ -249,7 +249,7 @@ const BookDetailspage = async ({ params }: IbookDetailsprops) => {
                   <path d="M8 5v14l11-7Z" />
                 </svg>
 
-                Listen Now
+               Read
               </button>
 
               <button
@@ -272,7 +272,7 @@ const BookDetailspage = async ({ params }: IbookDetailsprops) => {
                   />
                 </svg>
 
-                Add to Library
+                Wish List
               </button>
             </div>
           </div>
